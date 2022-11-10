@@ -5,9 +5,9 @@
   justify-content: space-evenly;
   width: 20rem;
   font-size: 1.5rem;
-  background-color: white;
+  background-color: #0a77b6;
   margin: 3rem auto;
-  box-shadow: 0px 0px 8px #888888;
+  box-shadow: 0px 0px 8px #0116fe;
   border-radius: 0.5rem;
   font-weight: bold;
 }
@@ -19,14 +19,14 @@
 }
 
 .x-score {
-  color: #ff4625;
-  border-bottom: 5px solid #ff4625;
+  color: #070707;
+  border-bottom: 5px solid #070707;
   border-radius: 0.5rem 0rem 0rem 0.5rem;
 }
 
 .o-score {
-  color: #2c87ff;
-  border-bottom: 5px solid #2c87ff;
+  color: #fdfdfd;
+  border-bottom: 5px solid #fdfdfd;
   border-radius: 0rem 0.5rem 0.5rem 0rem;
 }
 

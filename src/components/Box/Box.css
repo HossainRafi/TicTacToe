@@ -1,5 +1,5 @@
 .box {
-  background-color: #ffffff;
+  background-color: #0a77b6;
   border: none;
   border-radius: 10%;
   box-shadow: 0px 0px 8px #888888;
@@ -9,16 +9,17 @@
   font-size: 5em;
   font-family: "Fredoka", sans-serif;
   font-weight: bold;
+  cursor: pointer;
   line-height: 5rem;
   margin: 0.5rem;
 }
 
 .x {
-  color: #ff4625;
+  color: #070707;
 }
 
 .o {
-  color: #2c87ff;
+  color: #fdfdfd;
 }
 
 .box:hover {
